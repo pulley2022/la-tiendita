@@ -1,0 +1,23 @@
+{
+  "name": "la-tiendita",
+  "version": "1.0.0",
+  "description": "Client Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "la-tiendita",
+    "bootstrap-5"
+  ],
+  "author": "ARC",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.49.7"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "autoprefixer": "^10.4.2",
+    "bootstrap": "^5.1.3"
+  }
+}
